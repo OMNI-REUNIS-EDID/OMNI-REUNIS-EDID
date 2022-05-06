@@ -19,6 +19,10 @@ You can click the Preview link to take a look at your changes.
 
 [CANSSI picture a scientist event; May 14-18, 2022](http://www.canssi.ca/equity-diversity-and-inclusion/picture-a-scientist/)
 
+## LAND ACKNOWLEDGEMENT
+
+[York University](https://www.yorku.ca/laps/land-acknowledgement/)
+
 ##
 ##
 # EDI-resources (Thanks to A. Hurford)
