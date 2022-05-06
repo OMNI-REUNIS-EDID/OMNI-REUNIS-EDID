@@ -18,6 +18,13 @@ https://www.iscb.org/edi-resources
 
 [http://www.canssi.ca/equity-diversity-and-inclusion/](CANSII)
 
+## TRAINING 
+
+[http://www.canssi.ca/canssi-edi-training/]
+
+## EVENTS
+
+
 ## Mathematics for Public Health Speakers and resources
 Session 1: S Mishra: http://www.fields.utoronto.ca/talks/Special-EDI-Session-1-Modellers-first-do-no-harm-terminology-assumptions-and-interpretation
 
