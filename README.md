@@ -1,5 +1,5 @@
 - 👋 This is the respository for @OMNI-REUNIS-EDID
-- 👀 The goal of this repository is to curate and compile EDID resources
+- 👀 The goal of this repository is to curate and compile EDID resources for the OMNI-REUNIS research network (www.omni-reunis.ca)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 The email address for this organization is omni.reunis.edi@gmail.com
@@ -8,6 +8,19 @@
 OMNI-REUNIS-EDID/OMNI-REUNIS-EDID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## TRAINING 
+
+[CANSSI training platform](http://www.canssi.ca/canssi-edi-training/)
+
+## EVENTS
+
+[CANSSI townhall teaching evaluations; April 12, 2022](http://www.canssi.ca/come-to-the-canssi-townhall-on-student-evaluations-of-teaching-with-philip-b-stark/)
+
+[CANSSI picture a scientist event; May 14-18, 2022](http://www.canssi.ca/equity-diversity-and-inclusion/picture-a-scientist/)
+
+##
+##
 # EDI-resources (Thanks to A. Hurford)
 
 https://www.iscb.org/images/stories/edi/Diversity_Strategic_Plan_Approved2020.7.pdf
@@ -18,11 +31,6 @@ https://www.iscb.org/edi-resources
 
 [http://www.canssi.ca/equity-diversity-and-inclusion/](CANSII)
 
-## TRAINING 
-
-[http://www.canssi.ca/canssi-edi-training/]
-
-## EVENTS
 
 
 ## Mathematics for Public Health Speakers and resources
