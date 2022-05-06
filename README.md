@@ -25,7 +25,9 @@ You can click the Preview link to take a look at your changes.
 
 ##
 ##
-# EDI-resources (Thanks to A. Hurford)
+# EDI-resources
+
+[An article about gender differences and "brillance"](https://www.researchgate.net/publication/344360224_Explaining_Gender_Differences_in_Academics'_Career_Trajectories)
 
 https://www.iscb.org/images/stories/edi/Diversity_Strategic_Plan_Approved2020.7.pdf
 
