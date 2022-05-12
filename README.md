@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 [CANSSI training platform](http://www.canssi.ca/canssi-edi-training/)
 
+[POLARIS - YorkU's training platform](https://www.yorku.ca/research/project/polaris/access-to-our-polaris-modules-as-a-non-york-professor/)
+
 ## EVENTS
 
 [CANSSI townhall teaching evaluations; April 12, 2022](http://www.canssi.ca/come-to-the-canssi-townhall-on-student-evaluations-of-teaching-with-philip-b-stark/)
