@@ -9,6 +9,9 @@ OMNI-REUNIS-EDID/OMNI-REUNIS-EDID is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
+## ACTIONS
+[Support our Science](https://www.supportourscience.ca/) NSERC Graduate student and postdoctoral fellowship awards have not changed in the last 20 years despite the rising cost of living. Support this initiative by writing to your member of parliment. It takes about 90 seconds. Click [here](https://www.supportourscience.ca/contact-your-mp)
+
 ## TRAINING 
 
 [CANSSI training platform](http://www.canssi.ca/canssi-edi-training/)
