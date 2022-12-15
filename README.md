@@ -78,11 +78,20 @@ Mathematics for Public Health Speakers FIELDS event; December 7, 2021
 
 [The intersectional privilege of white able-bodied heterosexual men in STEM](https://www.science.org/doi/10.1126/sciadv.abo1558)
 
-https://www.iscb.org/images/stories/edi/Diversity_Strategic_Plan_Approved2020.7.pdf
-
-https://www.iscb.org/edi-resources
-
 [Scarborough Charter](https://www.utsc.utoronto.ca/principal/sites/utsc.utoronto.ca.principal/files/docs/Scarborough_Charter_EN_Nov2022.pdf)
+
+[Work-life balance ](https://raw.githubusercontent.com/ahurford/EDI-resources/main/files/Martignoni)
+
+[Canadian Centre for Diversity and Inclusion](https://ccdi.ca/)
+
+[CSEE EDI statement](http://www.csee-scee.ca/diversity-and-inclusivity-statement/)
+
+[ICSB EDI resources](https://www.iscb.org/edi-resources)
+
+[NSERC EDI policies](https://www.nserc-crsng.gc.ca/InterAgency-Interorganismes/EDI-EDI/index_eng.asp)
+
+
+
 
 
 
