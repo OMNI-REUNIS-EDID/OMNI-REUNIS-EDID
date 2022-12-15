@@ -68,6 +68,15 @@ Mathematics for Public Health Speakers FIELDS event; December 7, 2021
 
 [Decolonising Science Reading List](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f)
 
+[The whole women thing (by N. Reid)](https://utstat.toronto.edu/reid/research/COPSSbook.pdf)
+
+[Who gets into medical school and why](https://www.stuff.co.nz/national/health/300013258/medical-school-who-gets-in-and-why)
+
+[Diversity in STEM: What it is and Why it Matters](https://blogs.scientificamerican.com/voices/diversity-in-stem-what-it-is-and-why-it-matters/) 
+
+[Gender diversity leads to better science](https://www.pnas.org/doi/pdf/10.1073/pnas.1700616114)
+
+[The intersectional privilege of white able-bodied heterosexual men in STEM](https://www.science.org/doi/10.1126/sciadv.abo1558)
 
 https://www.iscb.org/images/stories/edi/Diversity_Strategic_Plan_Approved2020.7.pdf
 
