@@ -41,10 +41,29 @@ Mathematics for Public Health Speakers FIELDS event; December 7, 2021
 
 [Support our Science](https://www.supportourscience.ca/) NSERC Graduate student and postdoctoral fellowship awards have not changed in the last 20 years despite the rising cost of living. Support this initiative by writing to your member of parliment. It takes about 90 seconds. Click [here](https://www.supportourscience.ca/contact-your-mp)
 
+[Academia's abelist mindset needs to change](https://www.nature.com/articles/d41586-021-02907-7)
+
+How LGBT+ scientists would like to be included and welcomed in STEM workplaces
+
+Importance of collecting data - report in CMS. See also Women and math awards
+
+EDI in modelling - from Mathematics for Public Health
+
+10 simple rules for building an anti-racist lab
+
+Understand gender biases in reference letters
+
+Actions that can be taken by white academics
+
+Reading list from the EEB department at the University of Toronto
+
+Provide pronouns, land acknowledgments, lead activities, write statements, audit, bystander intervention, decolonize your syllabus, highlight members
+
 
 ##
-# EDI-RESOURCES
+# RESOURCES & ADDITIONAL READING
 
+[Two New Zealands](https://interactives.stuff.co.nz/the-side-eye/the-table/)
 
 [San Francisco Declaration on Research Assessment](https://sfdora.org/read/)
 
@@ -56,7 +75,6 @@ https://www.iscb.org/edi-resources
 
 [Scarborough Charter](https://www.utsc.utoronto.ca/principal/sites/utsc.utoronto.ca.principal/files/docs/Scarborough_Charter_EN_Nov2022.pdf)
 
-[http://www.canssi.ca/equity-diversity-and-inclusion/](CANSII)
 
 
 
