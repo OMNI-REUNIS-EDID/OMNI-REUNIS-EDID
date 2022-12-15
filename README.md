@@ -24,6 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 ## EVENTS
 
+[CAIMS Navigating EDI Presentation; June 15, 2022](https://github.com/ahurford/EDI-resources/blob/main/files/CAIMS_EDI_June_15_2022.pdf)
+
 [CANSSI townhall teaching evaluations; April 12, 2022](http://www.canssi.ca/come-to-the-canssi-townhall-on-student-evaluations-of-teaching-with-philip-b-stark/)
 
 [CANSSI picture a scientist event; May 14-18, 2022](http://www.canssi.ca/equity-diversity-and-inclusion/picture-a-scientist/)
