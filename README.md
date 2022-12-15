@@ -94,6 +94,8 @@ Mathematics for Public Health Speakers FIELDS event; December 7, 2021
 
 ["A seminar room of our own" blog post by I. Laba](https://ilaba.wordpress.com/2016/10/23/a-seminar-room-of-our-own/)
 
+[CAIMS blog](https://caims.ca/caims-blog/)
+
 
 
 
