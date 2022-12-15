@@ -1,7 +1,5 @@
 - 👋 This is the respository for @OMNI-REUNIS-EDID
 - 👀 The goal of this repository is to curate and compile EDID resources for the OMNI-REUNIS research network (www.omni-reunis.ca)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 The email address for this organization is omni.reunis.edi@gmail.com
 
 <!---
@@ -21,6 +19,12 @@ You can click the Preview link to take a look at your changes.
 [CANSSI training platform](http://www.canssi.ca/canssi-edi-training/)
 
 [POLARIS - YorkU's training platform](https://www.yorku.ca/research/project/polaris/access-to-our-polaris-modules-as-a-non-york-professor/)
+
+[Implicit bias training from NSERC CRC program](https://www.chairs-chaires.gc.ca/program-programme/equity-equite/bias/module-eng.aspx?pedisable=true)
+
+[San Francisco Declaration on Research Assessment](https://sfdora.org/read/)
+
+[Guide for considering EDI in your NSERC DG](https://www.nserc-crsng.gc.ca/_doc/EDI/Guide_for_Applicants_EN.pdf)
 
 ## EVENTS
 
