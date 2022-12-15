@@ -22,8 +22,6 @@ You can click the Preview link to take a look at your changes.
 
 [Implicit bias training from NSERC CRC program](https://www.chairs-chaires.gc.ca/program-programme/equity-equite/bias/module-eng.aspx?pedisable=true)
 
-[San Francisco Declaration on Research Assessment](https://sfdora.org/read/)
-
 [Guide for considering EDI in your NSERC DG](https://www.nserc-crsng.gc.ca/_doc/EDI/Guide_for_Applicants_EN.pdf)
 
 ## EVENTS
@@ -34,16 +32,21 @@ You can click the Preview link to take a look at your changes.
 
 [CANSSI picture a scientist event; May 14-18, 2022](http://www.canssi.ca/equity-diversity-and-inclusion/picture-a-scientist/)
 
-(http://www.fields.utoronto.ca/talks/Special-EDI-Session-1-Modellers-first-do-no-harm-terminology-assumptions-and-interpretation)
+
+Mathematics for Public Health Speakers FIELDS event; December 7, 2021 
+[Session 1](http://www.fields.utoronto.ca/talks/Special-EDI-Session-1-Modellers-first-do-no-harm-terminology-assumptions-and-interpretation) [Session 2](http://www.fields.utoronto.ca/talks/Special-EDI-Session-1-Modellers-first-do-no-harm-terminology-assumptions-and-interpretation)
+
 
 ## TAKE ACTION
-[Support our Science](https://www.supportourscience.ca/) 
 
-NSERC Graduate student and postdoctoral fellowship awards have not changed in the last 20 years despite the rising cost of living. Support this initiative by writing to your member of parliment. It takes about 90 seconds. Click [here](https://www.supportourscience.ca/contact-your-mp)
+[Support our Science](https://www.supportourscience.ca/) NSERC Graduate student and postdoctoral fellowship awards have not changed in the last 20 years despite the rising cost of living. Support this initiative by writing to your member of parliment. It takes about 90 seconds. Click [here](https://www.supportourscience.ca/contact-your-mp)
 
 
 ##
 # EDI-RESOURCES
+
+
+[San Francisco Declaration on Research Assessment](https://sfdora.org/read/)
 
 [An article about gender differences and "brillance"](https://www.researchgate.net/publication/344360224_Explaining_Gender_Differences_in_Academics'_Career_Trajectories)
 
@@ -57,9 +60,5 @@ https://www.iscb.org/edi-resources
 
 
 
-## Mathematics for Public Health Speakers and resources
-Session 1: S Mishra: http://www.fields.utoronto.ca/talks/Special-EDI-Session-1-Modellers-first-do-no-harm-terminology-assumptions-and-interpretation
-
-Session 2: N Osgood: http://www.fields.utoronto.ca/talks/Special-EDI-Session-2-Dynamic-Modelling-Health-Inequities-Peril-Promise-Principles-Practices
 
 
