@@ -43,21 +43,14 @@ Mathematics for Public Health Speakers FIELDS event; December 7, 2021
 
 [Academia's abelist mindset needs to change](https://www.nature.com/articles/d41586-021-02907-7)
 
-How LGBT+ scientists would like to be included and welcomed in STEM workplaces
+[How LGBT+ scientists would like to be included and welcomed in STEM workplaces](https://www.nature.com/articles/d41586-020-02949-3)
 
-Importance of collecting data - report in CMS. See also Women and math awards
+[Importance of collecting data (CMS report)](https://notes.math.ca/en/article/title-about-the-necessity-of-collecting-data-to-improve-edi-in-mathematics/)
 
-EDI in modelling - from Mathematics for Public Health
+[10 simple rules for building an anti-racist lab](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008210)
 
-10 simple rules for building an anti-racist lab
+[Actions that can be taken by white academics](https://medium.com/the-faculty/white-academia-do-better-fa96cede1fc5)
 
-Understand gender biases in reference letters
-
-Actions that can be taken by white academics
-
-Reading list from the EEB department at the University of Toronto
-
-Provide pronouns, land acknowledgments, lead activities, write statements, audit, bystander intervention, decolonize your syllabus, highlight members
 
 
 ##
@@ -65,9 +58,16 @@ Provide pronouns, land acknowledgments, lead activities, write statements, audit
 
 [Two New Zealands](https://interactives.stuff.co.nz/the-side-eye/the-table/)
 
+[Mathematics prizes have a gender problem — can it be fixed?](https://www.nature.com/articles/d41586-022-01481-w)
+
 [San Francisco Declaration on Research Assessment](https://sfdora.org/read/)
 
 [An article about gender differences and "brillance"](https://www.researchgate.net/publication/344360224_Explaining_Gender_Differences_in_Academics'_Career_Trajectories)
+
+[Reading list](http://brews.eeb.utoronto.ca/links-resources/) from the EEB department at the University of Toronto
+
+[Decolonising Science Reading List](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f)
+
 
 https://www.iscb.org/images/stories/edi/Diversity_Strategic_Plan_Approved2020.7.pdf
 
