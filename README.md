@@ -12,6 +12,11 @@ You can click the Preview link to take a look at your changes.
 
 [York University](https://www.yorku.ca/laps/land-acknowledgement/)
 
+## UPCOMING EVENTS
+
+[JAN 25 2023 CANSSI EDI WEBINAR Cultural Humility: A Framework to Mitigate Personal Bias & Techniques to Build Greater Capacity](https://canssi.ca/events/cultural-humility/)
+
+[MAY 4 2023 CANSSI EDI WEBINAR  Microaggressions: They Aren’t Being Too Sensitive](https://canssi.ca/events/microaggressions/)
 
 
 ## TRAINING 
@@ -24,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 
 [Guide for considering EDI in your NSERC DG](https://www.nserc-crsng.gc.ca/_doc/EDI/Guide_for_Applicants_EN.pdf)
 
-## EVENTS
+## PAST EVENTS
 
 [CAIMS Navigating EDI Presentation; June 15, 2022](https://github.com/ahurford/EDI-resources/blob/main/files/CAIMS_EDI_June_15_2022.pdf)
 
