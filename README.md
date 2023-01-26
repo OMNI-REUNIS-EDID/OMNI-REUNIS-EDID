@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 [Implicit bias training from NSERC CRC program](https://www.chairs-chaires.gc.ca/program-programme/equity-equite/bias/module-eng.aspx?pedisable=true)
 
-[Guide for considering EDI in your NSERC DG](https://www.nserc-crsng.gc.ca/_doc/EDI/Guide_for_Applicants_EN.pdf)
+
 
 ## PAST EVENTS
 
@@ -60,6 +60,24 @@ Mathematics for Public Health Speakers FIELDS event; December 7, 2021
 
 ##
 # RESOURCES & ADDITIONAL READING
+
+[Guide for considering EDI in your NSERC DG](https://www.nserc-crsng.gc.ca/_doc/EDI/Guide_for_Applicants_EN.pdf)
+
+[Accessibility Hub (Lots of resources)](https://accessibilityhub.niagaracollege.ca)
+ 
+[What is EDI?](https://ecampusontario.pressbooks.pub/universaldesign/chapter/what-is-edi/)
+ 
+[EDI Basics (terms, checklists, resources)](https://olis-ri.libguides.com/edi)
+
+[Equity-Focused Teaching](https://crlt.umich.edu/equity-focused-teaching/principles-strategies-resources)
+
+[EDI Resources (Taylor Institute)](https://taylorinstitute.ucalgary.ca/resources/equity-diversity-inclusion) 
+
+[EDI Toolkit for Campuses](https://campusmentalhealth.ca/wp-content/uploads/2020/03/CICMH-Equity-Diversity-Inclusion-Toolkit-EN.pdf)
+ 
+[Equity, diversity, inclusion resources by topic (STLHE)](https://www.stlhe.ca/equity-diversity-and-inclusion-task-force/resources/) 
+
+[Equity, diversity, and inclusion resource guide (Simon Fraser University)](https://www.lib.sfu.ca/help/academic-integrity/edi) 
 
 [Two New Zealands](https://interactives.stuff.co.nz/the-side-eye/the-table/)
 
