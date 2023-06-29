@@ -61,6 +61,8 @@ Mathematics for Public Health Speakers FIELDS event; December 7, 2021
 ##
 # RESOURCES & ADDITIONAL READING
 
+[Scientists explore why identity and history matter in science](https://www.cbc.ca/radio/ideas/quantum-physics-astronomy-perimeter-institute-1.6818033?fbclid=IwAR1WPv107YLbtZIMd93daFc610JWkyZlDyynv2EFuyjgMMIFL3KS3vEJ5nE)
+
 [Guide for considering EDI in your NSERC DG](https://www.nserc-crsng.gc.ca/_doc/EDI/Guide_for_Applicants_EN.pdf)
 
 [Accessibility Hub (Lots of resources)](https://accessibilityhub.niagaracollege.ca)
